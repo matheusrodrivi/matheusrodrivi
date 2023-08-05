@@ -15,8 +15,7 @@
   <img align="center" alt="matheus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
 </div><br>
 
-<div> 
+<div style="display: inline_block"> 
   <a href="https://www.linkedin.com/in/matheusrodrivi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
 <a href="mailto:matheusvieirarodrigues1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
