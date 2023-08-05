@@ -3,7 +3,7 @@
 - 🌱 Estudando Typescript.
 - 💬 Contate-me no email: matheusrodriguesvieira1@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbordoloi&hide=Jupyter%20Notebook&layout=compact)](https://github.com/rahulbordoloi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrodrivi&hide=Jupyter%20Notebook&layout=compact)](https://github.com/rahulbordoloi/github-readme-stats)
   
  <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
