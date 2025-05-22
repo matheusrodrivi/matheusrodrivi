@@ -6,7 +6,7 @@
 
   <b> Sobre: </b><br>
   🖥️ Atualmente trabalho como desenvolvedor de software na Metta Innovations <br>
-  🎓 Cursando sistemas de informação na [Universidade LaSalle do Rio de Janeiro (Unilalle-RJ](https://www.unilasalle.edu.br/rj). <br>
+  🎓 Cursando sistemas de informação na [Universidade LaSalle do Rio de Janeiro (Unilalle-RJ)](https://www.unilasalle.edu.br/rj). <br>
   💡 Ampla experiência com C++, Next.js, TypeScript, Python, FastAPI, MySQL, PostgreSQL e Docker. <br>
   💡 Atualmente também trabalho desenvolvendo projetos de machine learning, incluindo anotação de dados, treinamento e otimização de modelos de redes neurais.<br>
 
@@ -27,6 +27,8 @@
     <img align="center" alt="Icon TS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img align="center" alt="Icon React" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
   </div> 
+
+##
 
 <div align= "center" style="display: inline_block"; margin-top: 20px;> 
   <a href="https://www.linkedin.com/in/matheusrodrivi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
