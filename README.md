@@ -18,7 +18,7 @@
   </a>  
 </div>
 
-<div align = "center" style="display: inline_block">
+<div align = "center" style="display: inline_block" margin-top:20px>
   <img align="center" alt="Icon C++" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Icon C" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img align="center" alt="Icon Qt" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
