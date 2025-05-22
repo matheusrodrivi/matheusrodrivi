@@ -12,6 +12,12 @@
 
 ##
 
+<div align="center">
+  <a href="https://github.com/matheusrodrivi/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrodrivi&hide=Jupyter%20Notebook&layout=compact" alt="Top Langs" />
+  </a>  
+</div>
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrodrivi&hide=Jupyter%20Notebook&layout=compact)](https://github.com/matheusrodrivi/github-readme-stats)
   
   <div align = "center" style="display: inline_block">
