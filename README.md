@@ -12,14 +12,6 @@
 
 ##
 
-<div align="center">
-  <a href="https://github.com/matheusrodrivi/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrodrivi&hide=Jupyter%20Notebook&layout=compact" alt="Top Langs" />
-  </a>  
-</div>
-
-##
-
 <div align = "center" style="display: inline_block">
   <img align="center" alt="Icon C++" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Icon C" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
@@ -33,6 +25,14 @@
   <img align="center" alt="Icon TS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Icon React" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
 </div> 
+
+##
+
+<div align="center">
+  <a href="https://github.com/matheusrodrivi/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrodrivi&hide=Jupyter%20Notebook&layout=compact" alt="Top Langs" />
+  </a>  
+</div>
 
 ##
 
