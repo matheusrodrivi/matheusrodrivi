@@ -12,9 +12,9 @@
 
 ##
 
-<div align = "center" style="display: inline_block">
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrodrivi&hide=Jupyter%20Notebook&layout=compact)](https://github.com/matheusrodrivi/github-readme-stats)
-</div>
+
   
   <div align = "center" style="display: inline_block">
     <img align="center" alt="Icon C++" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
