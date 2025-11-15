@@ -30,6 +30,7 @@
 
 <div align="center">
   <a href="https://github.com/matheusrodrivi/github-readme-stats">
+    <img width="380" src="https://readme-stats-ten-pi.vercel.app/api?username=matheusrodrivi&show_icons=true&theme=dracula&hide=issues&count_private=true">
     <img src="https://readme-stats-ten-pi.vercel.app/api/top-langs/?username=matheusrodrivi&layout=compact&theme=dracula&langs_count=4&hide=jupyter%20notebook" alt="Top Langs" />
   </a>  
 </div>
