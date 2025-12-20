@@ -6,7 +6,7 @@
 
   <b> Sobre: </b><br>
   🖥️ Atualmente trabalho como desenvolvedor de software na Metta Innovations <br>
-  🎓 Cursando sistemas de informação na [Universidade La Salle do Rio de Janeiro (Unilalle-RJ)](https://www.unilasalle.edu.br/rj). <br>
+  🎓 Formado em Sistemas de Informação pela [Universidade La Salle do Rio de Janeiro](https://www.unilasalle.edu.br/rj). <br>
   💡  Experiência com C++, Next.js, TypeScript, Python, FastAPI, MySQL, PostgreSQL e Docker. <br>
   💡  Atualmente também trabalho desenvolvendo projetos de machine learning, incluindo anotação de dados, treinamento e otimização de modelos de redes neurais.<br>
 
